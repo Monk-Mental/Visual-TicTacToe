@@ -1,6 +1,5 @@
 ##Ttt.py
 #June 18 2020
-#Arya Peer
 #Draws a tic tac toe grid that closes after 5 seconds
 
 #import and Initialize
